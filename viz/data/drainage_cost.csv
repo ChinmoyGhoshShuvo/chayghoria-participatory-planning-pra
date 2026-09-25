@@ -1,0 +1,15 @@
+# Source: report Tables 6-8 (BDT). Equipment rent counted once as listed; labour = 15 labourers x 500 BDT/day x 90 days (report: 6,75,000).
+group,item,cost_bdt
+Equipment rent,Excavator (3-5 t),25000
+Equipment rent,Compactor (2-3 t),8000
+Equipment rent,Bulldozer x2 (2-3 t),24000
+Equipment rent,Grader (5-8 t),27000
+Labour,Labour (90 days),675000
+Materials,Drainage pipes,1000000
+Materials,Erosion-control jute matting,2250000
+Materials,Pipe bedding & backfill,30000
+Professional,Surveying,5000
+Professional,Engineering & design,150000
+Professional,Environmental assessment,50000
+Professional,Project supervision,90000
+Land,Land acquisition & compensation,800000
